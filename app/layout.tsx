@@ -10,15 +10,7 @@ export const metadata: Metadata = {
   title: 'Patrick Raoul DJOUMBISSIE — Développeur Web & Informaticien',
   description:
     "Portfolio de Patrick Raoul DJOUMBISSIE TUICHEU, développeur web titulaire d'une Maîtrise en Intelligence Artificielle. Angular, React, TypeScript, ASP.NET et bases de données.",
-  generator: 'v0.app',
-  icons: {
-    icon: [
-      { url: '/icon-light-32x32.png', media: '(prefers-color-scheme: light)' },
-      { url: '/icon-dark-32x32.png', media: '(prefers-color-scheme: dark)' },
-      { url: '/icon.svg', type: 'image/svg+xml' },
-    ],
-    apple: '/apple-icon.png',
-  },
+  
 }
 
 export const viewport: Viewport = {
