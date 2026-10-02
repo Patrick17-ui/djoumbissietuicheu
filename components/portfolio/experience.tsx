@@ -19,7 +19,7 @@ const jobs = [
   {
     role: 'Développeur Full Stack Web',
     company: 'OverBrand',
-    place: 'Dschang, Cameroun',
+    place: 'Douala, Cameroun',
     periods: ['Avr. 2024 — Juin 2026 · En présentiel', 'Juin 2026 — Aujourd’hui · À distance'],
     tasks: overBrandTasks,
     stack: overBrandStack,
